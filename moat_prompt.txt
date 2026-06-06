@@ -1,0 +1,12 @@
+You are a fundamental equity analyst. Given the financial data below for {ticker} ({company_name}), write a competitive moat assessment in no more than 10 sentences.
+
+Focus on:
+- Why this business is structurally better or worse than its closest competitors
+- What protects its margins and market share (brand, switching costs, network effects, cost advantage, intangibles)
+- Whether the financial metrics (gross margin: {gross_margin}%, ROIC: {roic}%, revenue growth: {revenue_growth}%) support or contradict the moat thesis
+- Be direct. Do not use filler phrases like "it is worth noting" or "in conclusion".
+
+Sector: {sector}
+Competitors context: {competitors}
+
+Respond with the moat commentary only. No headings. No bullet points. Plain paragraph. Maximum 10 sentences.
